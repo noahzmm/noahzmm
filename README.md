@@ -1,4 +1,4 @@
-# Hey, ich bin [Noah] 👋
+# Hey, ich bin Noah 👋
 
 🧑‍💻 Code. Commit. Sleep. Repeat.
 
