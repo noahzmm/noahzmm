@@ -9,6 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
